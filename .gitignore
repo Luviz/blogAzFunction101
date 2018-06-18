@@ -1,0 +1,5 @@
+*.ide-wal
+*.dtbcache
+*.lock
+*.ide*
+*.suo
